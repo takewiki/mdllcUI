@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1686291339730.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "51D691AC",
+    "lastKnownWriteTime" : 1686294708,
+    "last_content_update" : 1686294708737,
+    "path" : "~/app/zzy/lc/mdllcUI/R/lc.R",
+    "project_path" : "R/lc.R",
+    "properties" : {
+        "cursorPosition" : "55,10",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
