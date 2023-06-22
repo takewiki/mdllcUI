@@ -12,7 +12,7 @@
 #'
 #' @examples
 #' buttonUI()
-lcUI <- function(tabTitle = '采购调价单',
+lcUI <- function(tabTitle = '价格来源2-采购调价单',
                     colTitles = c('上传数据', '显示区域'),
                     widthRates = c(4, 8),
                     func_left = buttonUI_left,
