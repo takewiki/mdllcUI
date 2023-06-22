@@ -42,6 +42,11 @@ buttonUI_left <- function() {
     tsui::mdl_file(id = 'uploadfile', label ='上传excel数据表'),
     shiny::actionButton(inputId = 'btn_view' , label = '预览数据'),
     shiny::actionButton(inputId = 'btn_upload' , label = '上传数据'),
+    br(),
+    hr(),
+    shiny::h4('按图号查询最新外购调价信息,不输入表示全部'),
+    tsui::mdl_text2(id = 'txt_purchasePriceAdj_chartNo',label = '按图号查询',value = ''),
+    shiny::actionButton(inputId = 'btn_purchaseAdj_query' , label = '查询数据'),
     tsui::mdl_download_button(id = 'btn_download',label = '下载数据')
   )
   return(res)
