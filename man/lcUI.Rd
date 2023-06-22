@@ -5,7 +5,7 @@
 \title{按纽生成生成器界面}
 \usage{
 lcUI(
-  tabTitle = "菱川采购调价单",
+  tabTitle = "采购调价单",
   colTitles = c("上传数据", "显示区域"),
   widthRates = c(4, 8),
   func_left = buttonUI_left,
